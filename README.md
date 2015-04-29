@@ -61,3 +61,11 @@ Moning Project – 당신이 원하는 진짜 리뷰, 요때(Yodde)
 - 회원이 웹서비스에 접속하면 자신이 접속한 지역에서 새로 오픈한 스토어 정보를 제공받는다.
 - 회원은 자신의 거주지역에서 리뷰가 급속도로 늘고 있는 핫플레이스의 리스트를 제공 받는다.
 - 회원은 자신이 (리뷰를 작성한) 스토어의 히스토리를 지도에 표시하여 볼 수 있다.
+
+#개발 도구
+-운영체제 : Mac OS X 10.9.5
+-개발언어 : Java(jdk7.0), JSP 2.2, Servlet(3.0), Spring, jQuery, myBatis, Javascript, CSS, HTML
+-개발 툴  : Eclipse Luna, Sublime Text3
+-GUI편집툴: Photoshop, Illustrator
+-Database : Oracle 10g Express
+-Server   : Apache Tomcap 7.0
