@@ -63,9 +63,9 @@ Moning Project – 당신이 원하는 진짜 리뷰, 요때(Yodde)
 - 회원은 자신이 (리뷰를 작성한) 스토어의 히스토리를 지도에 표시하여 볼 수 있다.
 
 #개발 도구
--운영체제 : Mac OS X 10.9.5
--개발언어 : Java(jdk7.0), JSP 2.2, Servlet(3.0), Spring, jQuery, myBatis, Javascript, CSS, HTML
--개발 툴  : Eclipse Luna, Sublime Text3
--GUI편집툴: Photoshop, Illustrator
--Database : Oracle 10g Express
--Server   : Apache Tomcap 7.0
+- 운영체제 : Mac OS X 10.9.5
+- 개발언어 : Java(jdk7.0), JSP 2.2, Servlet(3.0), Spring, jQuery, myBatis, Javascript, CSS, HTML
+- 개발 툴  : Eclipse Luna, Sublime Text3
+- GUI편집툴: Photoshop, Illustrator
+- Database : Oracle 10g Express
+- Server   : Apache Tomcap 7.0
